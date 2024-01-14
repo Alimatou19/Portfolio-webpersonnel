@@ -1,0 +1,39 @@
+/* navbar */
+.navbar ul{
+    flex-wrap: wrap;
+    justify-content:center;
+}
+
+/* headings */
+.headings{
+    font-size: 2.5rem;
+}
+
+/* apropos */
+#img{
+    flex-direction: column;
+    align-items: center;
+}
+
+#img img{
+    width: 475px;
+    height: 300px;
+}
+
+#intro h2{
+    text-align: center;
+    padding: 10px;
+}
+
+/* contact */
+.input{
+    width: 60%;
+}
+
+#message{
+    width: 55%;
+}
+
+#envoyer{
+    width: 20%;
+}

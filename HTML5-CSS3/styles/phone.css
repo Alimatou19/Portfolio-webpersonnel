@@ -1,0 +1,38 @@
+/* accueil */
+#accueil {
+    height: 820px;
+}
+
+.headings {
+    font-size: 1.7rem;
+}
+
+/* apropos */
+#img img {
+    width: 300px;
+    height: 175px;
+}
+
+#intro h2 {
+    font-size: 1.5rem;
+}
+
+/* portfolio */
+.gallery img{
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+}
+
+/* contact */
+.input{
+    width: 80%;
+}
+
+#message{
+    width: 70%;
+}
+
+#envoyer{
+    width: 25%;
+}
